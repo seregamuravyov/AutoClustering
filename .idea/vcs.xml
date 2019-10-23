@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Evo_Clustering" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Evo_Clustering/UCI-ML-API" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Evo_Clustering/uci_ml_api" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Incremental_CVI" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/RL_Clustering" vcs="Git" />
+  </component>
+</project>
