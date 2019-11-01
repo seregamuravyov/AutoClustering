@@ -4,3 +4,6 @@
 [submodule "Incremental_CVI"]
 	path = Incremental_CVI
 	url = https://github.com/AntipovDen/EvoClusterization
+[submodule "Evo_Clustering"]
+	path = Evo_Clustering
+	url = https://github.com/dimatomp/EvolutionaryClustering
